@@ -1,5 +1,5 @@
 # AI_Training
-Workshops on AI: forecasting nad computer vision
+Workshops on AI: forecasting and computer vision
 AI workshop
 
 1. Colab Part 1: Timeseries forecasting : https://colab.research.google.com/drive/1uzCZIHkZ6wR_aE5AskKBbgw-BLg01_4A?usp=sharing 
